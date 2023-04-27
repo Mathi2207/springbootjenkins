@@ -30,7 +30,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>Springbootjenkins</finalName>
+	<finalName>springbootjenkins</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
